@@ -21,5 +21,7 @@ Visualize data for better decision-making.
 
 ####  Database and Tools
 Database – MySQL
+
 Data Source – CSV files
+
 Tools – MySQL Workbench 
