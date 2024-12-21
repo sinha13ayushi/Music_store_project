@@ -15,11 +15,11 @@ Optimize inventory based on sales patterns.
 
 Visualize data for better decision-making.
 
-### Dataset
+## Dataset
 
 <img width="581" alt="schema_diagram" src="https://github.com/user-attachments/assets/dd711959-425f-4cac-815f-d83e6c9140cf" />
 
-####  Database and Tools
+##  Database and Tools
 Database – MySQL
 
 Data Source – CSV files
